@@ -22,7 +22,7 @@ This is a small tic-tac-toe game made with javascript that runs in the cmd, it's
 <br />
 <br />
 ## BrowserGame
->To improme my dev skills i decided start a "gameproject", and my objective is in the end make a 2D platform game that run in your browser, to make this project i need understand more javascript, keyboard input, data management...
+To improme my dev skills i decided start a "gameproject", and my objective is in the end make a 2D platform game that run in your browser, to make this project i need understand more javascript, keyboard input, data management...
 <br />
 <br />
 ## 1.0.0
