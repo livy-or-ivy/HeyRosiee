@@ -1,12 +1,9 @@
-## Bem-vindo(a) ao meu Perfil.
+## Welcome!
+- Hi! I’m rosiee and i’m currently learning JavaScript, i wish work with backend in future.
+I’m currently making pessoal projects to learn and understand more JavaScript. 
 
-- 👋 Hi, I’m rosiee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Websites and Backend
-- 📫 How to reach me ...
+## My projects
+**Okinawa**
+> Okinawa is a Discord Bot multipurposes for your server, the bot have commands of moderation, economy, utility and administration (This is a Portuguese BOT)
 
-<!---
-rosiee-sz/rosiee-sz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+!https://i.imgur.com/vDFwaZL.png
