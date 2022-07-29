@@ -9,6 +9,7 @@ Okinawa is a Discord Bot multipurposes for your server, the bot have commands of
 ![Discord Okinawa BOT](https://i.imgur.com/vDFwaZL.png)
 <br />
 <br />
+<br />
 ### **TicTacToe in Console**
 This is a small tic-tac-toe game made with javascript that runs in the cmd, it's simple and to do it I needed to know how to manage the player's moves, find which place the player decided to play, make the bot play.
 
