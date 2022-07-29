@@ -6,7 +6,9 @@ I’m currently making pessoal projects to learn and understand more about JavaS
 
 ### WaifuMC - Minecraft Server
 WaifuMC is a server that [@envyfull](https://github.com/envyfull) is developing together me, the server is in development, we are currently just testing game modes on the server.
-
+<br />
+<br />
+<br />
 ### Okinawa - Discord BOT
 Okinawa is a Discord Bot multipurposes for your server, the bot have commands of moderation, economy, utility and administration (This is a Portuguese BOT)
 
