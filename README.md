@@ -10,8 +10,8 @@ I’m currently making pessoal projects to learn and understand more JavaScript.
 <br />
 <br />
 <br />
-### **TicTacToe in Console**
-> This is a small tic-tac-toe game made with javascript that runs in the cmd, it's simple and to do it I needed to know how to manage the player's moves, find which place the player decided to play, make the bot play.
+### TicTacToe in Console
+This is a small tic-tac-toe game made with javascript that runs in the cmd, it's simple and to do it I needed to know how to manage the player's moves, find which place the player decided to play, make the bot play.
 
 ![Tic-tac-toe](https://i.imgur.com/mpnq4DP.png)
 
