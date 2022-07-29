@@ -3,22 +3,21 @@
 I’m currently making pessoal projects to learn and understand more about JavaScript. 
 
 # 📂 My projects
-Here you can see all my projects
 
-## 💖 WaifuMC - Minecraft Server
+### 💖 WaifuMC - Minecraft Server
 WaifuMC is a server that [@envyfull](https://github.com/envyfull) is developing together me, the server is in development, we are currently just testing game modes on the server.
 <br /><br /><br />
-## 🤖 Okinawa - Discord BOT
+### 🤖 Okinawa - Discord BOT
 Okinawa is a Discord Bot multipurposes for your server, the bot have commands of moderation, economy, utility and administration (This is a Portuguese BOT)
 
 ![Discord Okinawa BOT](https://i.imgur.com/vDFwaZL.png)
 <br /><br /><br />
-## ✖ TicTacToe
+### ✖ TicTacToe
 This is a small tic-tac-toe game made with javascript that runs in the cmd, it's simple and to do it I needed to know how to manage the player's moves, find which place the player decided to play and make the bot play.
 
 ![Tic-tac-toe](https://i.imgur.com/mpnq4DP.png)
 <br /><br /><br />
-## 💻 BrowserGame
+### 💻 BrowserGame
 To improme my dev skills i decided start a "gameproject", and my objective is in the end make a 2D platform game that run in your browser, to make this project i need understand more javascript, keyboard input, data management...
 <br /><br />
 ### 📕 1.0.0
