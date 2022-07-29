@@ -2,7 +2,7 @@
 - Hi! I’m rosiee and i’m currently learning JavaScript, i wish work with backend in future.
 I’m currently making pessoal projects to learn and understand more about JavaScript. 
 
-# My projects
+## My projects
 
 ### WaifuMC - Minecraft Server
 WaifuMC is a server that [@envyfull](https://github.com/envyfull) is developing together me, the server is in development, we are currently just testing game modes on the server.
