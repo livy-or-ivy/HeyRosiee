@@ -26,12 +26,12 @@ This is a small tic-tac-toe game made with javascript that runs in the cmd, it's
 <br />
 <br />
 ## 1.0.0
->In 1.0.0 you use "A" and "D" to moviment the "x", the "X" are the player.
->
->![](https://i.imgur.com/RP5mKNc.png)
+In 1.0.0 you use "A" and "D" to moviment the "x", the "X" are the player.
+
+![](https://i.imgur.com/RP5mKNc.png)
 <br />
 ## 1.0.5
->In 1.0.5 you use arrow left and arrow right to movement the black square, the black square are the player, to make this version i learned how manipulate css with javascript and make a coordinates system
->
->![](https://i.imgur.com/uQiWkvt.png)
+In 1.0.5 you use arrow left and arrow right to movement the black square, the black square are the player, to make this version i learned how manipulate css with javascript and make a coordinates system
+
+![](https://i.imgur.com/uQiWkvt.png)
 
