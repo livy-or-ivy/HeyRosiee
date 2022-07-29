@@ -3,7 +3,11 @@
 I’m currently making pessoal projects to learn and understand more about JavaScript. 
 
 # My projects
-## Okinawa Discord BOT
+
+## WaifuMC - Minecraft Server
+WaifuMC is a server that @envyfull is developing together me, the server is in development, we are currently just testing game modes on the server.
+
+## Okinawa - Discord BOT
 Okinawa is a Discord Bot multipurposes for your server, the bot have commands of moderation, economy, utility and administration (This is a Portuguese BOT)
 
 ![Discord Okinawa BOT](https://i.imgur.com/vDFwaZL.png)
