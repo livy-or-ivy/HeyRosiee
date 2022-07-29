@@ -1,6 +1,6 @@
 # Welcome!
 - Hi! I’m rosiee and i’m currently learning JavaScript, i wish work with backend in future.
-I’m currently making pessoal projects to learn and understand more JavaScript. 
+I’m currently making pessoal projects to learn and understand more about JavaScript. 
 
 # My projects
 ## Okinawa Discord BOT
