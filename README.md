@@ -8,14 +8,14 @@
 **ZoomBOT** \
 Linguagens & Tecnologias: `JavaScript`, `Mongoose`, `Discord.js`, `Moment`\
 Clique [aqui]() para mais informações.
-<br>
-<br>
+<br />
+<br />
 [<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/0RwZcG3.png"/>]()
 **Tic-tac-toe** \
 Linguagens & Tecnologias: `JavaScript`\
 Clique [aqui](https://github.com/rosiee-sz/tictactoe-js) para mais informações.
-<br>
-<br>
+<br >
+<br />
 [<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/lewFPAX.png"/>]()
 **BrowserGame** \
 Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`\
