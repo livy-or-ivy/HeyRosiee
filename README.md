@@ -4,7 +4,7 @@
 
 ## 🍁 Meus Projetos
 
-[<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/Ov9xWVf.png"/>]()
+[<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/nNBf55S.png"/>]()
 **ZoomBOT** \
 Linguagens & Tecnologias: `JavaScript`, `Mongoose`, `Discord.js`, `Moment`\
 Clique [aqui]() para mais informações.
