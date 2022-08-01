@@ -1,4 +1,4 @@
-# 🧡  Bem-vindo(a) ao meu Perfil!
+# 🍂  Bem-vindo(a) ao meu Perfil!
 - Olá! eu me chamo Rosie.
 - Atualmente estou aprendendo JavaScript.
 
