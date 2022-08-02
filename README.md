@@ -1,5 +1,5 @@
 # 🍂  Bem-vindo(a) ao meu Perfil!
-- Olá! eu me chamo Rosie.
+- Olá! me chame de Rosie.
 - Atualmente estou aprendendo JavaScript.
 
 ## 🍁 Meus Projetos
