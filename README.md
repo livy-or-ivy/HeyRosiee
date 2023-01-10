@@ -1,12 +1,13 @@
 # 🍂  Bem-vindo(a) ao meu Perfil!
 - Olá! eu me chamo Rosie.
-- Eu possuo conhecimentos em: `JS`, `PhP`
+- Em linguagens de programação, possuo conhecimento em `JavaScript` e `PHP`.
+- Em uso de APIs/Tecnologias, possuo conhecimento em `Mongoose`, `Crypto`, `Moment`, `Canvas`, `Jimp`, `FS` entre outros.
 
 ## 🍁 Meus Projetos
 
 [<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/kTMmv4n.png"/>]()
 **ZoomBOT** \
-Linguagens & Tecnologias: `JavaScript`, `Mongoose`, `Discord.js`, `Moment`\
+Linguagens & Tecnologias: `JavaScript`, `Mongoose`, `Discord.js`, `Moment`, `Jimp`, `FS`\
 Clique [aqui](https://website-zoom.glitch.me) para mais informações.
 <br />
 <br />
