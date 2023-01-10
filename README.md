@@ -1,7 +1,7 @@
 # 🍂  Bem-vindo(a) ao meu Perfil!
 - Olá! eu me chamo Rosie.
 - Em linguagens de programação, possuo conhecimento em `JavaScript` e `PHP`.
-- Em uso de APIs/Tecnologias, possuo conhecimento em `Mongoose`, `Crypto`, `Moment`, `Canvas`, `Jimp`, `FS` entre outros.
+- Em uso de APIs/Tecnologias, possuo conhecimento em `Mongoose`, `Crypto`, `Moment`, `Canvas`, `Jimp`, `FS`, `...`
 
 ## 🍁 Meus Projetos
 
