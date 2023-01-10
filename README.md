@@ -23,6 +23,3 @@ Clique [aqui](https://github.com/lovellyrosie/tictactoe-js) para mais informaç�
 <br >
 <br />
 [<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/wApPD7M.png"/>]()
-**BrowserGame** \
-Linguagens & Tecnologias: `JavaScript`, `HTML`, `CSS`\
-Clique [aqui](https://github.com/lovellyrosie/browsergame-js) para mais informações.
