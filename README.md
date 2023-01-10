@@ -22,4 +22,3 @@ Linguagens & Tecnologias: `JavaScript`\
 Clique [aqui](https://github.com/lovellyrosie/tictactoe-js) para mais informações.
 <br >
 <br />
-[<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/wApPD7M.png"/>]()
