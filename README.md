@@ -2,7 +2,7 @@
 - Hi! I am Rosie.
 - I code in `JavaScript` and `PHP`.
 - I usually use this APIs and Frameworks: `Mongoose`, `Crypto`, `Moment`, `Canvas`, `Jimp`, `FS`, `...`
-- I'm actually learning ``GML Code``, that is used in ``GameMaker``.
+- I'm currently learning ``GML Code``, that is used in ``GameMaker``.
 
 # My Projects
 
