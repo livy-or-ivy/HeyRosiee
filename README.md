@@ -3,7 +3,7 @@
 - I can develop in `JavaScript` and `PHP`.
 - I usually use this APIs and Frameworks: `Mongoose`, `Crypto`, `Moment`, `Canvas`, `Jimp`, `FS`, `...`
 
-## Some of my Projects
+## My Projects
 
 [<img align="left" height="76px" width="76px" alt="Warpnet" src="https://i.imgur.com/kTMmv4n.png"/>]()
 **Zoom** \
